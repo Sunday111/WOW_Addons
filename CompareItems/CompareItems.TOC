@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: Compare Items
+## Author: Konstantin Lazukin
+## Version: 0.1
+
+main.lua
