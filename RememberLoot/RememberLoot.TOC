@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: Remember loot
+## Author: Konstantin Lazukin
+## Version: 0.1
+## SavedVariables: AccountSavedData
+## SavedVariablesPerCharacter: CharacterSavedData
+
+RememberLoot.lua
